@@ -39,3 +39,10 @@ Welcome to my cybersecurity portfolio.
 * Linux
 * Windows Administration
 * Incident Response
+
+* ### Malware Traffic Analysis
+[View Project](./Malware-Traffic-Analysis)
+
+- Investigated malware network traffic using Wireshark
+- Identified infected host: 10.2.28.88
+- Detected NetSupport RAT C2 traffic
